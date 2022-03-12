@@ -1,1 +1,4 @@
-# games-list
+# Games
+
+npm i
+npm start
